@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Why there is a feature for night mode in many application? Because lights attract bugs.
-
-My Name is Kevin Adrian Halim. I'm a Data Enthusiast.
+The more code I write, the more I can understand why chicken start the day with a scream in the morning
 
 Let's connect! 
 Linkedin  : https://www.linkedin.com/in/kevin-adrian-halim/ 
