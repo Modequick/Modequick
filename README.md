@@ -1,6 +1,6 @@
-### Hi there 👋
+The more code I write, the more I can understand why chicken start the day with a scream in the morning :>
 
-The more code I write, the more I can understand why chicken start the day with a scream in the morning
+## Hi there 👋
 
 Let's connect! 
 Linkedin  : https://www.linkedin.com/in/kevin-adrian-halim/ 
