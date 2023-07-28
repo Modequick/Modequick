@@ -1,4 +1,4 @@
-The more code I write, the more I can understand why chicken start the day with a scream in the morning :>
+The more code I write, the more I can understand why chicken start the day with screaming in the morning 
 
 ## Hi there 👋
 
