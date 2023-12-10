@@ -8,7 +8,7 @@
 <br>
 <h1 align="left">Let's Connect</h1>
 <p align="left">
-<a href="https://linkedin.com/in/kevinadrianhalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevinadrianhalim" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kevin-adrian-halim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevinadrianhalim" height="30" width="40" /></a>
 <a href="https://instagram.com/kevinadrianh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevinadrianh" height="30" width="40" /></a>
 <a href="https://medium.com/@kevinadrianh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kevinadrianhalim" height="30" width="40" /></a>
 </p>
