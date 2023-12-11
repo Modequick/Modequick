@@ -1,4 +1,4 @@
-[![MasterHead](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-03-blue-Game.png)](https://github.com/Modequick)
+[![MasterHead](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-03-blue-Game.png)](https://github.com/Modequick )
 <img align ="right" alt ="coding" width = 400 src ="https://cdn.dribbble.com/users/100142/screenshots/2920352/loading-animation-cd-v2.gif">
 <h1 align="center">I'm Kevin Adrian Halim A Data Analyst From Indonesia 🇮🇩</h1> 
 <H1 align ="left"> About Me! :sunglasses: </H1>
